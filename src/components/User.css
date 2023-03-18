@@ -1,0 +1,32 @@
+.user-container {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.main-block {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.loading {
+    text-align: center;
+}
+
+p, h3, h4 {
+    margin: 5px;
+}
+
+.info-block {
+    margin: 20px;
+    width: 100%;
+}
+
+.under-line {
+    text-decoration: underline;
+}
+
+.friends-container {
+    display: flex;
+    flex-wrap: wrap;
+}

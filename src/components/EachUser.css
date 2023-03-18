@@ -1,0 +1,17 @@
+.each-user-container {
+    width: 25%;
+}
+
+.each-user-inner {
+    margin: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+img {
+    width: 100%;
+}
+
+p, h3 {
+    margin: 5px 10px;
+}
